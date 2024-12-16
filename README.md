@@ -8,7 +8,7 @@
 - **🌐 Game Server Integration**: Ready to display server status, player count, and more.
 - **🛠️ Customizable Pages**: Easily update content for home, about, contact, and game-specific pages.
 - **🌙 Theme Support**: Dark and light themes included.
-- **⚡ Built with Modern Tools**: HTML5, CSS3, JavaScript, and Bootstrap framework.
+- **⚡ Built with Modern Tools**: HTML5, SCSS, JavaScript .
 - **📊 Analytics Ready**: Integrate your favorite analytics tool to track website performance.
 - **💾 Fast and Lightweight**: Optimized for performance with minimal load times.
 - **🔐 Secure Code Practices**: Includes best practices to minimize vulnerabilities.
@@ -20,7 +20,7 @@
 
 ## Demo
 
-Check out a live demo: [Game Hosting Template Demo](https://yourwebsite.com/demo)
+Check out a live demo: [Soul MC Demo]([https://yourwebsite.com/demo](https://soul-dev07.github.io/soul-mc/))
 
 ## Installation
 
