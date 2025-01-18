@@ -71,7 +71,7 @@ Make the template yours by tweaking the following:
 
 ## 📸 Preview
 
-![Website Screenshot](https://cdn.discordapp.com/attachments/1324689682591780929/1330200867688939644/image.png)  
+![Website Screenshot](https://cdn.discordapp.com/attachments/1324689682591780929/1330200867688939644/image.png?ex=678d1d98&is=678bcc18&hm=9929264cebd044adeff5f2c8293f8ae4f086f0a34fc1a36cc8266c89d2beb314&)  
 *Insert your screenshot or a live demo link here.*
 
 ---
